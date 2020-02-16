@@ -50,3 +50,5 @@ The most important feature for me was the support of yum package manager from co
 ## Final Thoughts
 
 For me the deal maker was the blue colour theme and the familiar stock Linux UI from many years back but the slow performance of the UI interactions and sometimes confusing UI navigation was the deal breaker. But if I have to choose a yum based Linux distribution which is not Fedora, Redhat or Cent OS, I may choose Mageia. Finally my high respect for the community behind Mageia for continuing the legacy of Mandriva Linux.
+
+_Explore Mageia [here](https://www.mageia.org/en/)_
